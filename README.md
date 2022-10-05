@@ -1,2 +1,6 @@
 # Project-Portfolio
-A repository for storing and accessing projects I have created for potential employment
+A repository for storing and accessing projects for academic and hobby purposes
+
+<ln></ln>
+
+
